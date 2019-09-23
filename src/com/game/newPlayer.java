@@ -1,10 +1,10 @@
 package com.game;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class newPlayer extends Player {
     private String move;
+    private String outcome;
 
     public void setMove() {
         System.out.println(this.getName() + ", make a choice: rock, paper, or scissors: ");

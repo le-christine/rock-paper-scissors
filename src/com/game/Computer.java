@@ -20,4 +20,6 @@ public class Computer {
     public String getComputerMove() {
         return(computerChoice);
     }
-}
+
+    }
+

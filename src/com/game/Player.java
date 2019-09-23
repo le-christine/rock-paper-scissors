@@ -44,9 +44,11 @@ abstract class Player {
     }
 
     public void declareLoss() {
-        System.out.println("Sorry " + this.name + " try again.");
+        System.out.println("Sorry " + this.name + ", try again.");
         this.losses += 1;
     }
+
+
 
 
 }
