@@ -13,6 +13,7 @@ This basic version of rock–paper–scissors allows users to play against the c
 - Java
 
 ## Installation 
-1. 
-
-
+1. Check your machine has Java installed with the command `which java`, it should return something like `/usr/bin/java`.
+2. Clone this repo with the command `git clone https://github.com/le-christine/rock-paper-scissors.git`.
+3. Change directories `cd out/production/rock-paper-scissors/`.
+4. To run the game, enter `java com.game.Game`.
